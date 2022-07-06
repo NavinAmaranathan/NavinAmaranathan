@@ -1,6 +1,5 @@
 - 👋 Hi, I’m - @NavinAmaranathan
 - 👀 I’m interested - In iOS application development and Autodesk illustrations.
-- 🌱 I’m currently learning - React Native.
 - 💞️ I’m looking to collaborate - For Open source iOS application developments.
 - 📫 How to reach me - Email me at naviniosdev@gmail.com
 
